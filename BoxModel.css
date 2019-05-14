@@ -1,0 +1,51 @@
+/*
+* Name
+* Due Date
+* Project Name and Description 
+*/
+
+/* The universal selector */
+
+* { 
+
+}
+
+/* Body attributes here */
+
+body { border: 5px dotted blue; 
+    padding-top: 2em; 
+    padding-right: 2em;
+    padding-bottom: 2em; 
+    padding-left: 2em; 
+    margin-top: .5em; 
+    margin-right: .5em;
+    margin-bottom: .5em;
+    margin-left: .5em;}
+
+* { margin: 0; 
+    padding: 0; }
+
+main {  border: 5px solid lime;
+    padding-top: 1em; 
+    padding-right: 1em;
+    padding-bottom: 1em; 
+    padding-left: 1em; }
+
+h1 { border: 3px dotted yellow; 
+    padding-top: .5em;
+    padding-bottom: .5em; 
+    padding-left: .5em;
+    margin-top: .5em; 
+    margin-right: .5em;
+    margin-bottom: .75em;
+    margin-left: .5em;
+    }
+
+p {  border: 3px dotted yellow; 
+    padding-top: 1em; 
+    padding-bottom: .5em;
+    padding-left: .5em;
+    margin-top: .5em; 
+    margin-right: .5em;
+    margin-bottom: .75em;
+    margin-left: .5em;}
